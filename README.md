@@ -21,8 +21,6 @@ I am committed to continuous learning, with over 20+ certifications including:
 - **Development:** GitHub Foundations, Agile Software Development, Python Essential Training
 - **Cloud:** Agentic Cloud Development with Google
 
-### 📈 GitHub Stats
-![Aswin's Stats](https://github-readme-stats.vercel.app/api?username=aswinrajesh345-dot&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/aswinrajesh345](https://www.linkedin.com/in/aswinrajesh345)
